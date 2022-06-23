@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="Imagenes">
+    <file>Configuracion_usuarios.png</file>
+    <file>Usuario.png</file>
+    <file>Advertir.png</file>
+    <file>Cerrar.png</file>
+    <file>FlechaCeleste_BaseNegra.png</file>
+    <file>Imagenes.qrc</file>
+    <file>Informar.png</file>
+    <file>InformeCeleste_BaseNegra.png</file>
+    <file>LHlogo_Lobster_rojoygris.png</file>
+    <file>Logo_odontologia.png</file>
+    <file>Minimizar.png</file>
+    <file>No.png</file>
+    <file>NosotrosCeleste_BaseNegra.png</file>
+    <file>PacienteCeleste_BaseNegra.png</file>
+    <file>Ok.png</file>
+    <file>PergaminoCeleste_FondoNegro.png</file>
+    <file>Preguntar.png</file>
+    <file>Si.png</file>
+    <file>UsuariosCeleste_FondoNegro.png</file>
+  </qresource>
+</RCC>
