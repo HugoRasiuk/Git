@@ -1,2 +1,3 @@
 Es el tercer archivo de texto agregado
-pero esta vez en la rama master original.
+pero esta vez en la rama master para conflicto.
+
