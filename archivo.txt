@@ -1,2 +1,3 @@
+Texto agregado.
 Un nuevo texto dentro del archivo 
 de texto.
