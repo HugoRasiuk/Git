@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 Texto agregado.
 Un nuevo texto dentro del archivo 
 de texto.
+=======
+Hola, estamos en construcción.
+<<<<<<< HEAD
+Agregamos una nueva línea.
+=======
+Le hicimos un cambio a ver que pasa.
+Otra línea agregada para probar el control de versiones de git.
+>>>>>>> 89d5aeb05ce958588733c7e9e52a12be340aa31a
+>>>>>>> parent of bee9f73 (cambio de texto)
